@@ -167,6 +167,42 @@
       "personalityTraits": [
         "zany"
       ]
+    },
+    {
+      "id": "18",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
     }
   ]
 }
