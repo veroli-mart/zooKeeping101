@@ -203,6 +203,15 @@
       "personalityTraits": [
         "zany"
       ]
+    },
+    {
+      "id": "22",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
     }
   ]
 }
