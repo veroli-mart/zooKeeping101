@@ -120,6 +120,17 @@
     },
     {
       "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Noel",
+      "species": "bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "impish",
+        "sassy",
+        "brave"
+      ]
     }
   ]
 }
