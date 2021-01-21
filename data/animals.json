@@ -131,6 +131,42 @@
         "sassy",
         "brave"
       ]
+    },
+    {
+      "id": "14",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
     }
   ]
 }
