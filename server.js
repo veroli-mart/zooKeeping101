@@ -73,7 +73,7 @@ function validateAnimal(animal) {
   return true;
 }
 
-app.get("/", (req, res) => {
+app.get("/api/animals", (req, res) => {
   let results = animals;
   if (req.query) {
     results = filterByQuery(req.query, results);
@@ -100,6 +100,9 @@ app.post("/api/animals", (req, res) => {
     const animal = createNewAnimal(req.body, animals);
     res.json(animal);
   }
+});
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "./public/index.html"));
 });
 app.listen(PORT, () => {
   console.log(`API server now on port ${PORT}!`);
