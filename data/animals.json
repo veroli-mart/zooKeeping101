@@ -212,6 +212,32 @@
       "personalityTraits": [
         "zany"
       ]
+    },
+    {
+      "name": "Zoey",
+      "species": "Zibra",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "23"
+    },
+    {
+      "id": "24",
+      "name": "Bodhi",
+      "species": "Doggo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+    },
+    {
+      "name": "Zoey",
+      "species": "Zebra",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "silly"
+      ],
+      "id": "25"
     }
   ]
 }
